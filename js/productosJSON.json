@@ -2,39 +2,39 @@
 [
     {
         "id": 1,
-        "img": "/imagenes/florero.jpg",
+        "img": "../imagenes/florero.jpg",
         "alt": "imagen de florero",
         "titulo": "Florero",
         "precio": 799
     },
     {
         "id": 2,
-        "img": "/imagenes/vela.jpg",
+        "img": "../imagenes/vela.jpg",
         "alt": "imagen de vela",
         "titulo": "Vela Artesanal",
         "precio": 566
     },
     {
         "id": 3,
-        "img": "/imagenes/jabones.jpg",
+        "img": "../imagenes/jabones.jpg",
         "alt": "imagen de jabones",
         "titulo": "Jabon Artesanal",
         "precio": 600},
     {
         "id": 4,
-        "img": "/imagenes/Reiki.jpg",
+        "img": "../imagenes/Reiki.jpg",
         "alt": "imagen ilustrativa sesion de Reiki",
         "titulo": "Sesion de Reiki",
         "precio": 1200},
     {
         "id": 5,
-        "img": "/imagenes/reflexo.jpg",
+        "img": "../imagenes/reflexo.jpg",
         "alt": "imagen ilustrativa sesion de reflexologia",
         "titulo": "Sesion de Reflexologia",
         "precio": 1800},
     {
         "id": 6,
-        "img": "/imagenes/astro.jpg",
+        "img": "../imagenes/astro.jpg",
         "alt": "imagen ilustrativa lectura astrologia",
         "titulo": "Lectura Carta Natal",
         "precio": 2600
