@@ -138,6 +138,7 @@ a:hover{
 }
 .btnFinalizarCompra a{
     color: white;
+    text-decoration: none;
 }
 
 /* PAGINA CON LOS DETALLES DE LA COMPRA */

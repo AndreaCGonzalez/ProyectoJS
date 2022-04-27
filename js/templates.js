@@ -27,5 +27,3 @@ const contenidoCard = (contenido)=> {
                          </div>`
        return HTMLCardError
  }
-
-//LISTA CON DETALLES DE ENVIO

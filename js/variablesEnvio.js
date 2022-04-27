@@ -1,5 +1,5 @@
 //FORMULARIO DE ENVIO
-//DOM checked conecta
+//DOM
 const nombre = document.getElementById("nombre")
 const dni = document.getElementById("dni")
 const telefono = document.getElementById("tel")
@@ -11,6 +11,5 @@ const localidad = document.getElementById("localidad")
 const tipoEnvio = document.getElementById("exampleDataList")
 const btnFinalizarCompra = document.getElementById("btnFinalizarCompra")
 
-// if (btnFinalizarCompra != null) {
-    btnFinalizarCompra.addEventListener("click", guardoDatosUsuarioJSON)
-// }
+//Me guarda los datos del usuario al clickear boton
+btnFinalizarCompra.addEventListener("click", guardoDatosUsuarioJSON)
