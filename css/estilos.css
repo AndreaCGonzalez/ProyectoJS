@@ -1,0 +1,187 @@
+/* INDEX */
+body{
+    background-color: #fbfbfb;
+}
+
+a{
+    text-decoration: none;
+    color: #78787A;
+}
+a:hover{
+    color: #9FAAD6;
+    text-decoration: underline;
+}
+
+.navbar{
+    justify-content: space-around;
+}
+
+.baner{
+    width: 100%;
+    margin-bottom: 10%;
+}
+
+.carousel{
+    margin-bottom: 8%;
+}
+
+
+.carousel-control-prev-icon{
+    background-color: gray;
+}
+
+.carousel-control-next-icon{
+    background-color: gray;
+}
+
+
+/* PRODUCTOS Y SERVICIOS */
+
+.prodTitulo{
+    font-size: 34px;
+    text-align: center;
+    margin: 5% 0 8% 0;
+}
+
+/* cards */
+.row{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.card-body .card-img-top{
+    object-fit: cover;
+}
+
+.card-body h5{
+    margin-bottom: 5%;
+    margin-top: 3%;
+}
+
+/* carrito */
+.divTotal{
+    display: flex;
+    justify-content: center;
+}
+
+.total{
+    font-size: 22px;
+    margin-right: 2%;
+}
+
+.precioTotal{
+    font-size: 20px;
+}
+
+
+.btnContinuar{
+    display: flex;
+    justify-content: center;
+    margin: 5% 0 8% 0;
+}
+
+.btnCont a{
+    text-decoration: none;
+    color: white;
+}
+
+/* SOBRE MI */
+
+.titleSobreMi{
+    font-size: 2rem;
+    text-align: center;
+    margin: 4%;
+    color: #78787A;
+}
+
+.descripcionSobreMi{
+    margin: 4% 10% 10%;
+    line-height: 1,6rem;
+}
+
+.imgSobreMi{
+    margin: 4% 4% 0 32%;
+}
+
+/* FOOTER */
+
+.footer{
+    display: flex;
+    justify-content: center;
+}
+
+/* PRODUCTOS */
+.prodTienda{
+    list-style-type: none;
+}
+.contenedorCarrito{
+    background-color: rgb(196, 245, 245);
+}
+
+.tuProd{
+    list-style-type: none;
+}
+
+/* ENVIO */
+
+.formTitulo{
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.formEnvio{
+    margin: 4%;
+}
+
+.btnFinalizarCompra{
+    margin-top: 5%;
+}
+.btnFinalizarCompra a{
+    color: white;
+}
+
+/* PAGINA CON LOS DETALLES DE LA COMPRA */
+
+.paginaDetalles{
+    background-image: url(/imagenes/Bannerdeco.jpg);
+    background-size: cover;
+}
+
+.detallesDeCompra{
+    margin: 5% 10% 6% 10%;
+    border:#78787A 2px solid;
+    background-color: #f3f2f9;
+}
+
+.detallesTitulo{
+    font-size: 32px;
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: 2%;
+    color: #78787A;
+}
+
+.detallessubt{
+    font-size: 26px;
+    text-align: center;
+    margin-bottom: 3%;
+    color: #78787A;
+}
+
+.listadoDeDatos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.detallesAlEmail{
+    margin-top: 2%;
+}
+
+.btnVolverAlInicio{
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+    margin-bottom: 3%;
+}
