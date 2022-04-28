@@ -94,14 +94,15 @@ a:hover{
     color: #78787A;
 }
 
+.imgSobreMi{
+    margin: 4% 4% 0 32%;
+}
+
 .descripcionSobreMi{
     margin: 4% 10% 10%;
     line-height: 1,6rem;
 }
 
-.imgSobreMi{
-    margin: 4% 4% 0 32%;
-}
 
 /* FOOTER */
 
