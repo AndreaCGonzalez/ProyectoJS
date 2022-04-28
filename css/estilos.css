@@ -142,7 +142,7 @@ a:hover{
     text-decoration: none;
 }
 
-/* PAGINA CON LOS DETALLES DE LA COMPRA */
+/* PAGINA INFODECOMPRA */
 
 .paginaDetalles{
     background-image: url(/imagenes/Bannerdeco.jpg);
@@ -186,4 +186,9 @@ a:hover{
     justify-content: center;
     margin-top: 4%;
     margin-bottom: 3%;
+}
+
+.btnVolverAlInicio a{
+    text-decoration: none;
+    color: white;
 }
